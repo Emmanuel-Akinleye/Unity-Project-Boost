@@ -6,7 +6,7 @@
     A list of the files contained in the repo
 </h3>
 <ul>
-    <li>3D Models<li>
-    <li>Scripts<li>
-    <li>Packages<li>
+    <li>3D Models</li>
+    <li>Scripts</li>
+    <li>Packages</li>
 </ul>
